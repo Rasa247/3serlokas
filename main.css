@@ -1,9 +1,44 @@
+body {
+    */background-color: rgb(235,236,238);*/ 
+ }
+ img{
+     display:inline-block
+width: 50%;
+float: left;
+margin-left 10
+ }
+ div{
+     display: inline-block;
+width: 50%;
+float: right;
+background-color: aqua;
 
-    p {
-        font-size: 30px;
-        color: blueviolet;
-    }
-    h1 {
-        font-size: 60px;
-        color: brown;
-    }
+ }
+ h1{
+     display: inline-block;
+     width: 100%;
+     font-size:  120px;
+     
+     margin: 0;
+     
+ }
+ p{
+     display: inline-block;
+     width: 100%;
+     text-align:center ;
+
+ }
+
+ a{
+display: inline-block;
+color: azure;
+/*width:100*/
+
+background-color:;
+padding: 20px;
+text-transform: uppercase;
+text-decoration: none;
+
+
+witdth:100
+ }
